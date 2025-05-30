@@ -1,10 +1,31 @@
-<h2> Leonardo Manzato</h2>
-<p><b>Graduando em Sistemas de Informação<br><em><a href="https://www.ufv.br">Universidade Federal de VIçosa</a>
+<h2 align="center"> Leonardo Manzato</h2>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+<p align="center"><b>Graduando em Sistemas de Informação<br><em><a href="https://www.ufv.br">Universidade Federal de VIçosa</a>
 </em></p>
 
-[![Linkedin: leomzto](https://img.shields.io/badge/-leomzto-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leomzto/)
-[![GitHub: leomzto](https://img.shields.io/badge/-leomzto-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/leomzto)
-[![Instagram: leomzto](https://img.shields.io/badge/-leomzto-FF0000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/leomzto)
+<div align="center">
+  <a href="https://www.linkedin.com/in/leomzto/">
+    <img src="https://img.shields.io/badge/-leomzto-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/leomzto">
+    <img src="https://img.shields.io/badge/-leomzto-000000?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/leomzto">
+    <img src="https://img.shields.io/badge/-leomzto-FF0000?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDF2djBvYzRqdHNmNng4bGM1d2trdHBlM2sxbWVpZWJxOTZ5b3JvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width="25"> Sobre <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdzZmh4NWZucm5pcGpodjZzcml3N3gzdzlidXN5a3Z4eW5keDB4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o84TSvGGfaIor8VzO/giphy.gif" width="35">
 
