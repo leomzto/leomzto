@@ -15,16 +15,18 @@
 </em></p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/leomzto/">
-    <img src="https://img.shields.io/badge/-leomzto-blue?style=flat-square&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/leomzto" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://github.com/leomzto">
-    <img src="https://img.shields.io/badge/-leomzto-000000?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://github.com/leomzto" target="_blank">
+    <img src="https://www.svgrepo.com/show/303615/github-icon-1-logo.svg" width="30" height="25" alt="github logo" />
   </a>
-  <a href="https://instagram.com/leomzto">
-    <img src="https://img.shields.io/badge/-leomzto-FF0000?style=flat-square&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/leomzto/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="25" alt="instagram logo" />
   </a>
 </div>
+
+
 
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDF2djBvYzRqdHNmNng4bGM1d2trdHBlM2sxbWVpZWJxOTZ5b3JvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width="25"> Sobre <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdzZmh4NWZucm5pcGpodjZzcml3N3gzdzlidXN5a3Z4eW5keDB4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o84TSvGGfaIor8VzO/giphy.gif" width="35">
