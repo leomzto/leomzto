@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/leomzto/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
   </a>
-  <a href="mailto:leopmanzato@gmail.com" target="_blank">
+  <a href="https://is.gd/contato_leomzto" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -41,7 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/leomzto/leomzto/output/fireball.svg" alt="Fireball animation" />
+<img src="https://raw.githubusercontent.com/leomzto/leomzto/output/snake.svg" alt="Snake animation" />
 
 ###
-readmer
