@@ -1,44 +1,43 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/leomzto" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/leomzto/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://is.gd/contato_leomzto" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />
-  </a>
-</div>
+<h2> Leonardo Manzato</h2>
+<p><b>Graduando em Sistemas de Informação<br><em><a href="https://www.ufv.br">Universidade Federal de VIçosa</a>
+</em></p>
 
-###
+[![Linkedin: leomzto](https://img.shields.io/badge/-leomzto-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leomzto/)
+[![GitHub: leomzto](https://img.shields.io/badge/-leomzto-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/leomzto)
+[![Instagram: leomzto](https://img.shields.io/badge/-leomzto-FF0000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/leomzto)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDF2djBvYzRqdHNmNng4bGM1d2trdHBlM2sxbWVpZWJxOTZ5b3JvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width="25"> Sobre <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdzZmh4NWZucm5pcGpodjZzcml3N3gzdzlidXN5a3Z4eW5keDB4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o84TSvGGfaIor8VzO/giphy.gif" width="35">
 
-###
+```csharp
+namespace Leonardo.Manzato
+{
+    public class Informacoes {
+        public static voic Main() {
+            var nome = "Leonardo Padovani Manzato";
+            var curso = "Graduando em Sistemas de Informmação";
+            var faculdade = "Universidade Federal de Viçosa";
 
-<div align="center">
-  <img height="900" src="https://i.postimg.cc/nrn3j5sn/adads.jpg"  />
-</div>
+            bool experiencia = false;
+            Console.WriteLine("Estudando e buscando a primeira oportunidade");
+        }
 
-###
+        public static void Competencias() {
+            bool c = true;
+            bool csharp = true;
+            bool python = true;
+            bool git = true;
+            bool ingles = true;
 
-<img src="https://raw.githubusercontent.com/leomzto/leomzto/output/snake.svg" alt="Snake animation" />
+        }
 
-###
+        public static void Contato() {
+            var LinkedIn = "linkedin.com/in/leomzto";
+            var GitHub = "github.com/leomzto";
+            var Email = "leopmanzato@gmail.com";
+        }
+    }
+}
+```
+<em><b>Buscando minha primeira oportunidade na área de tecnologia para aplicar os conhecimentos adquiridos em cursos e na graduação</b></em>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leomzto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leomzto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+---
