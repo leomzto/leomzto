@@ -41,6 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/leomzto/leomzto/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/seu-usuario/seu-repo/raw/output/fireball.svg" alt="Fireball animation" />
 
 ###
