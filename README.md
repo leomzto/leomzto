@@ -33,7 +33,7 @@
 namespace Leonardo.Manzato
 {
     public class Informacoes {
-        public static voic Main() {
+        public static void Main() {
             var nome = "Leonardo Padovani Manzato";
             var curso = "Graduando em Sistemas de Informmação";
             var faculdade = "Universidade Federal de Viçosa";
