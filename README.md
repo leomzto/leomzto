@@ -6,6 +6,8 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
@@ -13,14 +15,14 @@
 </em></p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/leomzto" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo" />
-  </a>
   <a href="https://github.com/leomzto" target="_blank">
-    <img src="https://www.svgrepo.com/show/303615/github-icon-1-logo.svg" width="40" height="30" alt="github logo" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="25" alt="github logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/leomzto" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/leomzto/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="25" alt="instagram logo" />
   </a>
 </div>
 
