@@ -41,6 +41,6 @@
 
 ###
 
-<img src="https://github.com/seu-usuario/seu-repo/raw/output/fireball.svg" alt="Fireball animation" />
+<img src="https://github.com/seu-usuario/seu-repo/raw/output/fireball.yml" alt="Fireball animation" />
 
 ###
