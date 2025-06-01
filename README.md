@@ -9,7 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<p align="center"><b>Graduando em Sistemas de Informação<br><em><a href="https://www.ufv.br">Universidade Federal de VIçosa</a>
+<p align="center"><b>Graduando em Sistemas de Informação<br><em><a href="https://www.ufv.br">Universidade Federal de Viçosa</a>
 </em></p>
 
 <div align="center">
@@ -35,7 +35,7 @@ namespace Leonardo.Manzato
     public class Informacoes {
         public static void Main() {
             var nome = "Leonardo Padovani Manzato";
-            var curso = "Graduando em Sistemas de Informmação";
+            var curso = "Graduando em Sistemas de Informação";
             var faculdade = "Universidade Federal de Viçosa";
 
             bool experiencia = false;
