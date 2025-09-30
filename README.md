@@ -2,6 +2,8 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="10" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="cpp logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="10" />
 <!---
@@ -42,12 +44,12 @@ namespace Leonardo.Manzato
             var curso = "Graduando em Sistemas de Informação";
             var faculdade = "Universidade Federal de Viçosa";
 
-            bool experiencia = false;
-            Console.WriteLine("Estudando e buscando a primeira oportunidade");
+            Console.WriteLine("Estudando e buscando oportunidades");
         }
 
         public static void Competencias() {
             bool c = true;
+            bool cpp = true;
             bool python = true;
             bool git = true;
             bool ingles = true;
@@ -65,3 +67,4 @@ namespace Leonardo.Manzato
 <em><b>Buscando minha primeira oportunidade na área de tecnologia para aplicar os conhecimentos adquiridos em cursos e na graduação</b></em>
 
 ---
+
