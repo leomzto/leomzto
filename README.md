@@ -51,6 +51,7 @@ namespace Leonardo.Manzato
             bool c = true;
             bool cpp = true;
             bool python = true;
+            bool java = true;
             bool git = true;
             bool ingles = true;
 
